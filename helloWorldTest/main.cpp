@@ -7,13 +7,13 @@
 
 #include <cstdlib>
 #include <iostream>
-using namespace std;
 
 /*
  * 
  */
 int main(int argc, char** argv) {
-cout<<"Fight me Robbie";
+    std::cout <<"Fight me Robbie" << std::endl;
+    std::cout <<"Yes?" << std::endl;
     return 0;
 }
 
